@@ -6706,9 +6706,6 @@ http://www.datasheetcatalog.org/datasheet/SGSThomsonMicroelectronics/mXuqtqv.pdf
 </sheet>
 <sheet>
 <plain>
-<text x="190.5" y="11.43" size="1.778" layer="97" ratio="10">Wangcf</text>
-<text x="223.52" y="11.43" size="1.778" layer="97" ratio="10">Bruce</text>
-<text x="223.52" y="5.08" size="1.778" layer="97" ratio="10">v1.0</text>
 </plain>
 <instances>
 <instance part="C14" gate="C" x="77.47" y="31.75" smashed="yes">
@@ -6992,9 +6989,6 @@ http://www.datasheetcatalog.org/datasheet/SGSThomsonMicroelectronics/mXuqtqv.pdf
 </sheet>
 <sheet>
 <plain>
-<text x="184.15" y="11.43" size="1.778" layer="97" ratio="10">Wangcf</text>
-<text x="217.17" y="11.43" size="1.778" layer="97" ratio="10">Bruce</text>
-<text x="217.17" y="5.08" size="1.778" layer="97" ratio="10">v1.0</text>
 </plain>
 <instances>
 <instance part="U1" gate="G$1" x="77.47" y="88.9" smashed="yes">
